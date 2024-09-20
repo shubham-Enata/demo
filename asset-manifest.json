@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebd9c153.css",
+    "main.js": "/static/js/main.fa8994e0.js",
+    "static/media/shop.jpeg": "/static/media/shop.24eaa9d9eef3fe495871.jpeg",
+    "static/media/register.jpeg": "/static/media/register.3eae4ca198c1be0fb3f0.jpeg",
+    "static/media/enta-nav-img.png": "/static/media/enta-nav-img.1fae92c8b523fe8d77ee.png",
+    "static/media/logowikitek.png": "/static/media/logowikitek.c3e9c9d18c1337103539.png",
+    "static/media/mktplacedivbanner.jpeg": "/static/media/mktplacedivbanner.3b5ec0bff9031dd1a4f1.jpeg",
+    "static/media/doongleimage.png": "/static/media/doongleimage.f46c04b13d7a88c84331.png",
+    "static/media/mktsmallimage.jpeg": "/static/media/mktsmallimage.ec76bdf1e7558d27e5f9.jpeg",
+    "static/media/harness.png": "/static/media/harness.5f3439d3ca8b52e083c1.png",
+    "static/media/noproduct.Webp": "/static/media/noproduct.c1b29ed47e2361efe393.Webp",
+    "index.html": "/index.html",
+    "main.ebd9c153.css.map": "/static/css/main.ebd9c153.css.map",
+    "main.fa8994e0.js.map": "/static/js/main.fa8994e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd9c153.css",
+    "static/js/main.fa8994e0.js"
+  ]
+}
